@@ -31,7 +31,7 @@ void bubble_sort(int arr[], int size){
 }
 
 int main(){
-    int arr[]={0,4,2,7,8,1,90,87,65};
+    int arr[]={51,49,11,6,45,44,65,68};
     int size= sizeof(arr)/4;
     cout<<"initial array-------------"<<endl;
     display(arr, size);
